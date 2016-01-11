@@ -12,10 +12,5 @@ namespace MandelbrotGraph_WPF
         {
             InitializeComponent();
         }
-
-        private void txtXResolution_PreviewTextInput(object sender, TextCompositionEventArgs e)
-        {
-
-        }
     }
 }
